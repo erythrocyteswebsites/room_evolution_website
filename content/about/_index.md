@@ -1,5 +1,5 @@
 ---
-title: "О нас"
+title: "About"
 date: 2023-11-13
 subTitle: >
         Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.
