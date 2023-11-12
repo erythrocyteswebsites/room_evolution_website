@@ -1,9 +1,9 @@
 ---
-title : "Take a look at Our Exibhition"
+title : "Галлерея"
 enable: true
 subtitle: >
-        We are the world’s largest provider of flexible workspace solutions,
-        with customers including some of the most successful entrepreneurs
+        Каждый день мы стараемся улучшать свои решения для увеличения качества, 
+        потому что в число наших клиентов входите именно вы
 description: Images of our Coworking Space
 galleryImage: 
  - image: "images/gallery/gallery01.jpg"
