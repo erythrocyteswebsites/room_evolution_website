@@ -1,8 +1,8 @@
 ---
 enable: true
 testimonial:
-  - author: "TechCrunch"
-    testimonialDetails: "Behind every great product, there is a great mind"
-  - author: "Yarnban"
-    testimonialDetails: "Behind every great product, there is a great mind"
+  - author: "Автор1"
+    testimonialDetails: "Цитата_автор1"
+  - author: "Автор2"
+    testimonialDetails: "Цитата_автор2"
 ---

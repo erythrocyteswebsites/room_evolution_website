@@ -36,20 +36,20 @@ title = 'coHub'
   weight = 7
 
   # Sitemap Menu
-  [[menu.sitemap]]
-  name = "Privacy Policy"
-  url = "/privacy/"
-  weight = 1
-  [[menu.sitemap]]
-  name = "Terms"
-  url = "/terms/"
-  weight = 2
+  #[[menu.sitemap]]
+  #name = "Privacy Policy"
+  #url = "/privacy/"
+  #weight = 1
+  #[[menu.sitemap]]
+  #name = "Terms"
+  #url = "/terms/"
+  #weight = 2
 
 [params]
   # theme_overrides = "css/overrides.css"
   aboutPageURL = "blog"
   contactLink = "contact"
-  copyright = "© {year} <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a>"
+  copyright = "© {year} Room Evolution"
   fabFormURL =  "https://fabform.io/f/u00kv3-"
   googleAnalytics = "G-JZ95FEWF9K"
   logo = "images/logo.png"
@@ -57,27 +57,26 @@ title = 'coHub'
   footerDescription = "Описание в футоре"
 
   [params.address]
-  address = "115 W 18th St. <br>  New York, NY 10011"
   email = "hello@example.com"
-  openingDesc = "Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days."
-  openingHours = "We are open from 7am — 7pm week days."
+  openingDesc = "Позвоните нам или напишите письмо в любое время, мы постараемся ответить на все запросы в течение 24 часов"
+  openingHours = "Мы на связи с 9:00 до 19:00 каждый день"
   phone = "+(448) 833 5272 332"
 
-  [params.map]
-  APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
-  latitude = "45.4502528"
-  longitude = "-122.783407"
-  pinImage = "images/pin.png"
+  # [params.map]
+  # APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
+  # latitude = "45.4502528"
+  # longitude = "-122.783407"
+  # pinImage = "images/pin.png"
 
   # Social icons
-  [[params.social]]
-  icon = "ti-facebook"
-  url = "https://www.facebook.com/"
-  weight = 1
-  [[params.social]]
-  icon = "ti-twitter-alt"
-  url = "https://twitter.com/"
-  weight = 2
+  #[[params.social]]
+  #icon = "ti-facebook"
+  #url = "https://www.facebook.com/"
+  #weight = 1
+  #[[params.social]]
+  #icon = "ti-twitter-alt"
+  #url = "https://twitter.com/"
+  #weight = 2
   [[params.social]]
   icon = "ti-telegram"
   url = "https://t.me/"
@@ -86,5 +85,9 @@ title = 'coHub'
   icon = "ti-instagram"
   url = "https://www.instagram.com/"
   weight = 4
+  [[params.social]]
+  icon = "ti-youtube"
+  url = "https://www.youtube.com/"
+  weight = 5
   
   
