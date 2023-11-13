@@ -7,7 +7,7 @@ title = 'coHub'
 
   # Main Menu
   [[menu.Main]]
-  name = "Галлерея"
+  name = "Галерея"
   url= "#gallery"
   weight = 1
   [[menu.Main]]
@@ -58,9 +58,9 @@ title = 'coHub'
 
   [params.address]
   email = "hello@example.com"
-  openingDesc = "Позвоните нам или напишите письмо в любое время, мы постараемся ответить на все запросы в течение 24 часов"
+  openingDesc = "Свяжитесь с нами удобным для вас способом в любое время, мы постараемся ответить на все вопросы в течение 24 часов"
   openingHours = "Мы на связи с 9:00 до 19:00 каждый день"
-  phone = "+(448) 833 5272 332"
+  # phone = "+(448) 833 5272 332"
 
   # [params.map]
   # APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
@@ -78,7 +78,7 @@ title = 'coHub'
   #url = "https://twitter.com/"
   #weight = 2
   [[params.social]]
-  icon = "ti-telegram"
+  icon = "ti-location-arrow"
   url = "https://t.me/"
   weight = 3
   [[params.social]]
