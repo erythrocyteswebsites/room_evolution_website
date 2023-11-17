@@ -54,7 +54,7 @@ title = 'Room Evolution'
   googleAnalytics = "G-JZ95FEWF9K"
   logo = "images/logo.svg"
   footerlogo = "images/logo.svg"
-  footerDescription = "Room Evolution - ваш надежный партнер халяльных инвестиций в недвижимость. Преумножайте свои сбережения с нами!"
+  footerDescription = "Room Evolution - ваш надежный партнер халяльных инвестиций в недвижимость. Преумножайте свои сбережения вместе с нами!"
 
   [params.address]
   email = "room_evo_halal@rambler.ru"
