@@ -79,7 +79,7 @@ title = 'Room Evolution'
   #weight = 2
   [[params.social]]
   icon = "ti-location-arrow"
-  url = "https://t.me/"
+  url = "https://t.me/room_evolution"
   weight = 3
   [[params.social]]
   icon = "ti-instagram"
