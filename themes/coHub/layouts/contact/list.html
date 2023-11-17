@@ -13,12 +13,14 @@
       <div class="col-lg-8 mx-auto">
         <div class="contact-form">
           <h2>Форма для связи</h2>
+          <p>Отправка сообщений временно недоступна</p>
           <form id="contact-form" class="row" action="{{ .Site.Params.fabFormURL }}" method="POST">
             <div class="col-md-6">
               <input type="text" class="form-control" id="exampleFormControlInput1" name="Name" placeholder="Ваше имя">
             </div>
             <div class="col-md-6">
-              <input type="email" class="form-control" id="validationCustom02" required="" name="email" placeholder="Ваш Email">
+              <input type="email" class="form-control" id="validationCustom02" required="" name="email"
+                placeholder="Ваш Email">
             </div>
             <div class="col-md-12">
               <textarea class="form-control" id="exampleFormControlTextarea1" rows="8" name="message"
@@ -28,12 +30,13 @@
               <div class="form-check">
                 <input class="form-check-input" type="checkbox" id="gridCheck" name="checkbox" required>
                 <label class="form-check-label" for="gridCheck">
-                  Я согласен на <a href = "/privacy/">обработку персональных данных</a>
+                  Я согласен на <a href="/privacy/">обработку персональных данных</a>
                 </label>
               </div>
             </div>
             <div class="col-lg-12">
-              <button type="submit" class="btn btn-primary" id="contact-form-button" formtarget="_blank">Отправить</button>
+              <button type="submit" class="btn btn-primary" id="contact-form-button" formtarget="_blank"
+                disabled title="Отправка сообщений временно недоступна">Отправить</button>
             </div>
             <p id="contact-form-status"></p>
           </form>
@@ -43,6 +46,24 @@
         </div>
       </div>
     </div>
+
+    <!-- <script type="text/javascript">var submitted = false;</script>
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
+      onload="if(submitted) {window.location='thankyou.html';}"></iframe>
+
+    <form action="https://docs.google.com/forms/d/e/safdalfjaISv65R6J11H0o_7FadflUm/formResponse" method="post"
+      target="hidden_iframe" onsubmit="submitted=true;">
+      <label>Name*</label>
+      <input type="text" placeholder="Name*" name="entry.895563655" required>
+
+      <label>Email Address*</label>
+      <input type="email" placeholder="Email address*" name="entry.772189125" required>
+
+      <label>Message*</label>
+      <textarea rows="5" placeholder="Message*" name="entry.190021963" required></textarea>
+
+      <button type="submit">Send</button>
+    </form> -->
   </div>
 </section>
 {{end}}
