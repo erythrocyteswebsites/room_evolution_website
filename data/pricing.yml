@@ -8,8 +8,8 @@ buttonTarget: "contact"
 itemPrices:
   - packcage: "Стандарт"
     description: >
-                Описание
-    price: от 200 т.р.
+                стандартный пакет услуг
+    price: 500 т.р.
     badge: 
   # - packcage: "Weekly"
   #   description: >
