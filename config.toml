@@ -52,8 +52,8 @@ title = 'coHub'
   copyright = "© {year} Room Evolution"
   fabFormURL =  "https://fabform.io/f/u00kv3-"
   googleAnalytics = "G-JZ95FEWF9K"
-  logo = "images/logo.png"
-  footerlogo = "images/logo.png"
+  logo = "images/logo.svg"
+  footerlogo = "images/logo.svg"
   footerDescription = "Описание в футоре"
 
   [params.address]
