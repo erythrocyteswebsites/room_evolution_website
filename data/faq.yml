@@ -2,20 +2,27 @@
 enable: true
 title: "Часто задаваемые вопросы"
 faq:
-  - question: "В. How do I apply?"
+  - question: "В. Как я могу начать инвестировать?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "В. Where can I find out about funding?"
+            Свяжитесь с нами любым удобным способом и мы ответим подробно на все ваши вопросы. Также
+            у нас есть блог на сайте, в котором дана вся необходимая информация.
+  - question: "В. Есть ли какой-то максимальный срок для инвестиций?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "В. How can I make a change to my application?"
+            Максимального срока нет. Все зависит от рынка недвижимости. Мы стараемся вкладываться 
+            только в те объекты, средний цикл сделок (купля, ремонт, продажа) по котором приблизительно 2 месяца.
+  - question: "В. Какая минимальная сумма для инвестиций?"
     answer: >
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit excepturi 
-            eaque quidem recusandae facere obcaecati optio, perferendis iusto maxime eligendi!
-  - question: "В. What are entry requirements?"
+            Минимальной суммой для инвестиций на данный момент является 500 (пятьсот) тысяч рублей. 
+            Сумма может быть изменена в индивидуальном порядке в исключительных случаях.
+  - question: "В. Как быстро я получу деньги после продажи недвижимости?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "В. How do I get a reference?"
+            Деньги будут поделены между всеми участниками в течение недели после продажи.
+  - question: "В. Подписывается ли договор?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
+            Да, мы подписываем договор согласно исламскому шариату.
+  - question: "В. Могу ли я забрать свои деньги, если объект уже куплен?"
+    answer: >
+            Нет, после покупки объекта недвижимости вы не можете забрать свои деньги, до ее реализации. 
+            Если же объект еще не куплен, то деньги будут возвращены по вашему запросы и текущий договор с вами 
+            будет рассторгнут.
 ---
