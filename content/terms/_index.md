@@ -1,24 +1,62 @@
 ---
-title: "CoHub Terms & Conditions"
+title: "Пользовательское Соглашение"
 date: 2022-01-08T12:52:02+06:00
 subtitle: >
-          Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.
+
 ---
-## What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
 
-## What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+Настоящее Пользовательское Соглашение (Далее Соглашение) регулирует отношения между OOO"{{ooo_name}}" (далее Администрация) с одной стороны и пользователем сайта с другой. Сайт roomevohalal.ru не является средством массовой информации.
 
-## What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+Используя сайт, Вы соглашаетесь с условиями данного соглашения.
+Если Вы не согласны с условиями данного соглашения, не используйте сайт roomevohalal.ru!
 
-## What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+## Предмет соглашения
+Администрация предоставляет пользователю право на размещение на сайте следующей информации:
 
-## What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+- Текстовой информации
+- Ссылок на материалы, размещенные на других сайтах
 
-## What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+## Права и обязанности сторон
+Пользователь имеет право:
 
+- осуществлять поиск информации на сайте
+- получать информацию на сайте
+- копировать информацию на другие сайты с указанием источника
+- копировать информацию на другие сайты с разрешения Администрации сайта
+- использовать информацию сайта в личных некоммерческих целях
+- использовать информацию сайта в коммерческих целях с разрешения правообладателей
+
+## Администрация имеет право:
+- по своему усмотрению и необходимости создавать, изменять, отменять правила
+- ограничивать доступ к любой информации на сайте
+- создавать, изменять, удалять информацию
+- удалять учетные записи
+- отказывать в регистрации без объяснения причин
+
+## Пользователь обязуется:
+- обеспечить достоверность предоставляемой информации
+- обеспечивать сохранность личных данных от доступа третьих лиц
+- не распространять информацию, которая направлена на пропаганду войны, разжигание национальной, расовой или религиозной ненависти и вражды, а также иной информации, за распространение которой предусмотрена уголовная или административная ответственность
+- не нарушать работоспособность сайта
+- не создавать несколько учётных записей на Сайте, если фактически они принадлежат одному и тому же лицу
+- не совершать действия, направленные на введение других Пользователей в заблуждение
+- не регистрировать учетную запись от имени или вместо другого лица за исключением случаев, предусмотренных законодательством РФ
+- не размещать материалы рекламного, эротического, порнографического или оскорбительного характера, а также иную информацию, размещение которой запрещено или противоречит нормам действующего законодательства РФ
+- не использовать скрипты (программы) для автоматизированного сбора информации и/или взаимодействия с Сайтом и его Сервисами
+
+## Администрация обязуется:
+- поддерживать работоспособность сайта за исключением случаев, когда это невозможно по независящим от Администрации причинам.
+- защищать информацию, распространение которой ограничено или запрещено законами путем вынесения предупреждения либо удалением учетной записи пользователя, нарушившего правила
+
+## Ответственность сторон
+- пользователь лично несет полную ответственность за распространяемую им информацию
+- администрация не несет никакой ответственности за достоверность информации, скопированной из других источников
+- администрация не несёт ответственность за несовпадение ожидаемых Пользователем и реально полученных услуг
+- администрация не несет никакой ответственности за услуги, предоставляемые третьими лицами
+- в случае возникновения форс-мажорной ситуации (боевые действия, чрезвычайное положение, стихийное бедствие и т. д.) Администрация не гарантирует сохранность информации, размещённой Пользователем, а также бесперебойную работу информационного ресурса
+
+Условия действия Соглашения
+Данное Соглашение вступает в силу при любом использовании данного сайта.
+Соглашение действует бессрочно.
+Администрация оставляет за собой право в одностороннем порядке изменять данное соглашение по своему усмотрению.
+Администрация не оповещает пользователей об изменении в Соглашении.
