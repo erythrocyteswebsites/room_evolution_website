@@ -37,13 +37,13 @@ title = 'Room Evolution'
 
   # Sitemap Menu
   #[[menu.sitemap]]
-  #name = "Privacy Policy"
+  #name = "Политика конфиденциальности"
   #url = "/privacy/"
   #weight = 1
-  #[[menu.sitemap]]
-  #name = "Terms"
-  #url = "/terms/"
-  #weight = 2
+  [[menu.sitemap]]
+  name = "Пользовательское соглашение"
+  url = "/terms/"
+  weight = 2
 
 [params]
   # theme_overrides = "css/overrides.css"
