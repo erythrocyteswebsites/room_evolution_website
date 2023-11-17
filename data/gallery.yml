@@ -4,10 +4,10 @@ enable: true
 subtitle: >
         Каждый день мы стараемся улучшать свои решения для увеличения качества, 
         потому что в число наших клиентов входите именно вы
-description: Images of our Coworking Space
+description: Наши работы
 galleryImage: 
- - image: "images/gallery/gallery01.jpg"
- - image: "images/gallery/gallery02.jpg"
- - image: "images/gallery/gallery03.jpg"
- - image: "images/gallery/gallery04.jpg"
+ - image: "images/gallery/gallery05.jpg"
+ - image: "images/gallery/gallery06.jpg"
+ - image: "images/gallery/gallery07.jpg"
+ - image: "images/gallery/gallery08.jpg"
 ---
