@@ -2,37 +2,35 @@
 enable: true
 title: "Почему вам стоит выбрать именно нас?"
 subtitle: >
-          We enable people and businesses to work where they want, 
-          when they want and how they want.
+          Верные шаги в халяльные инвестиции
 services:
-  - name: "largest Network"
+  - name: "Принципы халяльности"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-view-grid"
-  - name: "All Sizes And Budget"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-infinite"
-  - name: "Dedicated Account Manager"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-help-alt"
-  - name: "Easy Payment"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-credit-card"
-  - name: "Dedicated Locker"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                Мы строго придерживаемся принципов халяльности в инвестициях, 
+                что делает наши предложения надежными для мусульманских инвесторов.
     icon: "ti-lock"
-  - name: "Personalization"
+  - name: "Профессионализм"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-image"
+                Наша команда проявляет высокий профессионализм в сфере недвижимости, 
+                обеспечивая вашу инвестицию качественными решениями
+    icon: "ti-cup"
+  - name: "Прозрачность"
+    description: >
+                Мы ценим прозрачность в наших деловых отношениях и предоставляем 
+                четкую информацию о каждой инвестиции
+    icon: "ti-shine"
+  - name: "Внимание к деталям"
+    description: >
+                Мы уделяем особое внимание деталям проектов, 
+                чтобы обеспечить высокую прибыльность инвестиций
+    icon: "ti-search"
+  - name: "Отзывчивость"
+    description: >
+                Наша команда всегда готова отвечать на ваши запросы и предоставлять необходимую поддержку
+    icon: "ti-help-alt"
+  - name: "Этические аспекты"
+    description: >
+                Мы соблюдаем этические нормы и принципы в бизнесе, 
+                делая нас надежными партнерами для халяльных инвестиций
+    icon: "ti-gift"
 ---
