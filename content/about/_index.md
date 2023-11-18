@@ -6,10 +6,10 @@ subTitle: >
           Мы предоставляем нашим клиентам широкий спектр халяльных инвестиционных возможностей, которые не только обещают привлекательную прибыль, но и строго соответствуют исламским финансовым принципам.
 sliderImage:
   - image: "images/stor/story-04.jpg"
-  - image: "images/stor/story-02.png"
-  - image: "images/stor/story-03.png"
-  - image: "images/stor/story-05.png"
-  - image: "images/stor/story-06.png"
+  # - image: "images/stor/story-02.png"
+  # - image: "images/stor/story-03.png"
+  # - image: "images/stor/story-05.png"
+  # - image: "images/stor/story-06.png"
 ---
 ## Наша история.
 
