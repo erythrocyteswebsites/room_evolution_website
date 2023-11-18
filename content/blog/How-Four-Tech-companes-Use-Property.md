@@ -3,6 +3,7 @@ title: "How Four Tech Companes Use Property"
 date: 2022-01-06T11:15:47+06:00
 featureImage: images/blog/blog-thumb-2.jpg
 tags: ["Marketing", "Web Design"]
+weight: 1
 ---
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate eius eum dolor voluptatum autem minima magni soluta reiciendis corrupti, iste odio, minus odit voluptates rerum veritatis nam vel! Odio, totam?
 
