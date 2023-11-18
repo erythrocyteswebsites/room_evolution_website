@@ -15,7 +15,7 @@
         <div class="pricing-wraper">
           <div class="pricing-item">
             {{if .badge}}
-            <span class="pricing-item-badge">Popular</span>
+            <span class="pricing-item-badge">Популярный</span>
             {{end}}
             <span class="price">
                 {{.price}}
@@ -25,7 +25,7 @@
                {{.description}}
             </p>
           </div>
-          <a href="{{ .buttonTarget | absURL}}" class="btn btn-primary">Присоединиться</a>
+          <a href="{{.buttonTarget | absURL}}" class="btn btn-primary">Присоединиться</a>
         </div>
       </div>
       {{end}}

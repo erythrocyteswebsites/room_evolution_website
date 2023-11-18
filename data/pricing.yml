@@ -4,13 +4,14 @@ title: "Инвестиции"
 subtitle: >
           Если вы хотите инвестировать свои средства и получать с них прибыль, при этом не выходя 
           за границы дозволенного, то присоединяйтесь к нам
-buttonTarget: "contact"
+
 itemPrices:
   - packcage: "Стандарт"
     description: >
                 стандартный пакет услуг
-    price: 500 т.р.
-    badge: 
+    price: от 500 тыс. руб.
+    badge: popular
+    buttonTarget: contact
   # - packcage: "Weekly"
   #   description: >
   #               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
